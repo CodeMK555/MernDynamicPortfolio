@@ -1,0 +1,29 @@
+Lottie
+
+remix icon 
+
+
+mongodb+srv://root:root@cluster0.gonjvun.mongodb.net/Mern_Portfolio
+
+Movari Video Editor Plus
+
+
+npm i axios redux react-redux npm i @reduxjs/toolkit
+
+3:30
+
+npm i antd
+
+rm .git
+
+
+
+
+rootSlice
+
+    // ReloadData: (state, action) => {
+    //   state.reloadData = action.payload;
+    // },
+
+
+
